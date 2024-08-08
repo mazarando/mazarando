@@ -7,6 +7,8 @@
 
 ![Mazaro GitHub stats](https://github-readme-stats.vercel.app/api?username=mazarando&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazarando&layout=compact)
+
 ## 🚀Tecnologias
 
 <div style="display: inline_block"><br/>
